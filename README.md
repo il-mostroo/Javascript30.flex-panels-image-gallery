@@ -1,0 +1,2 @@
+# Javascript30.flex-panels-image-gallery
+This was a pretty simple challenge, since most of the work was done on css. I've created a script.js file in order to add two features, the first one makes an image gallery panel grow when the user clicks on it, and the second waits for the first transition to end to make some text content appear from top and bottom. I've practiced another time working with "transitionend" event and css animation. 
